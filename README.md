@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hikolakitadev" alt="hikolakitadev" /></a> </p>
 
-- 🔭 I’m currently working on **backend projects**
+- 🔭 I’m currently working on my **backend skills**
 
-- 🌱 I’m currently learning **react, rust**
+- 🌱 I’m currently learning **rust,Go**
 
 - 👯 I’m looking to collaborate on **anything**
 
 - 📝 I regularly write articles on [https://dev.to/hikolakita](https://dev.to/hikolakita)
 
-- 💬 Ask me about **javascript, python**
+- 💬 I know stuff about **javascript, python, react, c++**
 
 - 📫 How to reach me **hikolakita.dev@gmail.com**
 
-- ⚡ Fun fact **I just started freelancing**
+- ⚡ Fun fact **this was made by a bad generic readme maker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
