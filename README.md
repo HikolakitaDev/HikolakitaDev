@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 📝 I regularly write articles on [https://dev.to/hikolakita](https://dev.to/hikolakita)
-
 - 💬 I know stuff about **javascript, python, react, c++**
 
 - 📫 How to reach me **hikolakita.dev@gmail.com**
