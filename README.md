@@ -1,3 +1,7 @@
+## Hey there! 👋
+
+You have successfully landed on my github profile :D
+
 ## What I'm good at
 
 [![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,css,python,js,prisma,figma)](https://github.com/HikolakitaDev)
