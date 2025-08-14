@@ -4,7 +4,7 @@ You have successfully landed on my github profile :D
 
 ## What I'm good at
 
-[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,css,python,js,prisma,figma)](https://github.com/HikolakitaDev)
+[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,css,python,js,tailwind,prisma,figma)](https://github.com/HikolakitaDev)
 
 ## What I'm learning
 
